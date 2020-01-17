@@ -1,1 +1,3 @@
-# CICDsetup
+# maven-project
+
+Simple Maven Project
